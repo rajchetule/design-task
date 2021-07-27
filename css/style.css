@@ -1,0 +1,21 @@
+.container-fluid, .container-fluid .row, .container-fluid .row .col{margin: 0;padding: 0;}
+.com-color{background-color: #BB5A3A;}
+.navbar .navbar-nav {align-items: center; padding-left: 90px;}
+.navbar .navbar-nav .nav-link{color: black; text-transform: capitalize; font-weight: bold;}
+.navbar .navbar-nav .nav-link:hover{color: #BB5A3A;}
+/*banner section*/
+.banner img{width: 100%; height: 450px;}
+.blog{position: relative;}
+.blog-heading{position: absolute; top: -20px; left: 430px; padding: 5px 20px;}
+.blog .blog-body{padding: 90px 0;}
+.blog .insta-sec{background: #FEF2F0; margin-top: 90px; padding: 30px 0;}
+.blog .insta-sec .subscribe{padding: 50px 25px;}
+.blog .insta-sec .subscribe .btn{color: #BB5A3A; border-radius: 0;}
+.blog .insta-sec .subscribe input{background-color:#BB5A3A;border: none; border-bottom: 2px solid white; border-radius: 0;}
+
+/*form section*/
+.form{background: #FEF2F0; padding: 60px 0;}
+.form input, .form textarea{border: none; border-bottom: 1px solid black; border-radius: 0;background: #FEF2F0;}
+
+/*footer section*/
+.footer{background-color: ;}
